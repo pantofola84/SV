@@ -1,2 +1,2 @@
 # SV
-Slides for the Software Verification Exam
+Slides for the Software Verification exam.
